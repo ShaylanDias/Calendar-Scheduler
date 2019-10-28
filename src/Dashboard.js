@@ -1,5 +1,6 @@
 import React from "react";
 import Calendar from "./Calendar.js"
+import TimeCard from "./TimeCard.js"
 
 export default class Dashboard extends React.Component {
     constructor(props) {
@@ -19,6 +20,7 @@ export default class Dashboard extends React.Component {
           <div>
             <Calendar getDay = {this.retrieveDay.bind(this)}/>
             <h2>{String(this.state.selectedDay)} </h2>
+            <TimeCard date = {new Date().getFullYear()}/>
           </div>
         );
       }
