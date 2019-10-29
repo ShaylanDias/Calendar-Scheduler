@@ -31,9 +31,9 @@ export default class CalendarComponent extends React.Component {
             selectedDays={this.state.selectedDay}
            />
           {this.state.selectedDay ? (
-            <p>You clicked {this.state.selectedDay.toLocaleDateString()}</p>
+            <p style = {{"margin-left":"20px"}}>You clicked {this.state.selectedDay.toLocaleDateString()}</p>
           ) : (
-            <p>Please select a day.</p>
+            <p style = {{"margin-left":"20px"}}>Please select a day.</p>
           )}
         </div>
       );

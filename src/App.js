@@ -48,9 +48,9 @@ export default function App() {
           <li>
             <Link to="/about">About</Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="/topics">Topics</Link>
-          </li>
+          </li> */}
           <li>
             <Link to="/calendar">Calendar</Link>
           </li>
@@ -76,12 +76,13 @@ export default function App() {
 }
 
 function Home() {
-  return <h2>Home</h2>;
+  return (<><div style = {{"margin-left":"20px"}}><h2>Home</h2>
+          <p>Welcome to the Scheduler!</p></div> </>)
 }
 
 function About() {
-  return (<><h2>About</h2>
-  <p>This is the about page</p></>);
+  return (<><div style = {{"margin-left":"20px"}}> <h2>About</h2>
+  <p>This Scheduler exists to allow you to easily schedule Google Calendar appointments. Click Calendar to begin.</p></div> </>);
 }
 
 function Topics() {

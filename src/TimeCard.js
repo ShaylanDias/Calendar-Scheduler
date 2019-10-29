@@ -9,9 +9,8 @@ const paddingStyle = {
 export default class TimeCard extends React.Component {
     constructor(props) {
       super(props);
-      alert(props.date)
       this.state = {
-        date: this.props.date
+        date: this.props.date.toLocaleTimeString()
       };
     }
   
@@ -21,7 +20,7 @@ export default class TimeCard extends React.Component {
   
     render() {
       return (
-        <div class="ui secondary basic button" /*className="green-border"*/>
+        <div class="ui secondary basic button">
         <p style = {paddingStyle} class = "description">
           {this.state.date ? (
             <p> {this.state.date}</p>

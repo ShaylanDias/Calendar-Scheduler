@@ -22,3 +22,14 @@ code {
   align-items: center;
   justify-content: center;
 }
+
+.verticalStack {
+  /* overflow : scroll;
+  display : flex;
+  flex-direction : column; */
+  table-layout: "auto"
+}
+
+.inline {
+  display: flex
+}
