@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Calendar-Scheduler/static/css/main.4a048095.chunk.css",
-    "main.js": "/Calendar-Scheduler/static/js/main.224c09a8.chunk.js",
-    "main.js.map": "/Calendar-Scheduler/static/js/main.224c09a8.chunk.js.map",
-    "runtime-main.js": "/Calendar-Scheduler/static/js/runtime-main.d8b9e39c.js",
-    "runtime-main.js.map": "/Calendar-Scheduler/static/js/runtime-main.d8b9e39c.js.map",
-    "static/css/2.c6231af7.chunk.css": "/Calendar-Scheduler/static/css/2.c6231af7.chunk.css",
-    "static/js/2.c7ced839.chunk.js": "/Calendar-Scheduler/static/js/2.c7ced839.chunk.js",
-    "static/js/2.c7ced839.chunk.js.map": "/Calendar-Scheduler/static/js/2.c7ced839.chunk.js.map",
-    "index.html": "/Calendar-Scheduler/index.html",
-    "precache-manifest.19d56ab8109dea5dce11ec480f267cdf.js": "/Calendar-Scheduler/precache-manifest.19d56ab8109dea5dce11ec480f267cdf.js",
-    "service-worker.js": "/Calendar-Scheduler/service-worker.js",
-    "static/css/2.c6231af7.chunk.css.map": "/Calendar-Scheduler/static/css/2.c6231af7.chunk.css.map",
-    "static/css/main.4a048095.chunk.css.map": "/Calendar-Scheduler/static/css/main.4a048095.chunk.css.map"
+    "main.css": "/StockAssistant/static/css/main.4a048095.chunk.css",
+    "main.js": "/StockAssistant/static/js/main.517b8516.chunk.js",
+    "main.js.map": "/StockAssistant/static/js/main.517b8516.chunk.js.map",
+    "runtime-main.js": "/StockAssistant/static/js/runtime-main.5f8dffbc.js",
+    "runtime-main.js.map": "/StockAssistant/static/js/runtime-main.5f8dffbc.js.map",
+    "static/css/2.c6231af7.chunk.css": "/StockAssistant/static/css/2.c6231af7.chunk.css",
+    "static/js/2.c7ced839.chunk.js": "/StockAssistant/static/js/2.c7ced839.chunk.js",
+    "static/js/2.c7ced839.chunk.js.map": "/StockAssistant/static/js/2.c7ced839.chunk.js.map",
+    "index.html": "/StockAssistant/index.html",
+    "precache-manifest.00c1413746cc9942bc53f5cf90f2de85.js": "/StockAssistant/precache-manifest.00c1413746cc9942bc53f5cf90f2de85.js",
+    "service-worker.js": "/StockAssistant/service-worker.js",
+    "static/css/2.c6231af7.chunk.css.map": "/StockAssistant/static/css/2.c6231af7.chunk.css.map",
+    "static/css/main.4a048095.chunk.css.map": "/StockAssistant/static/css/main.4a048095.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8b9e39c.js",
+    "static/js/runtime-main.5f8dffbc.js",
     "static/css/2.c6231af7.chunk.css",
     "static/js/2.c7ced839.chunk.js",
     "static/css/main.4a048095.chunk.css",
-    "static/js/main.224c09a8.chunk.js"
+    "static/js/main.517b8516.chunk.js"
   ]
 }
