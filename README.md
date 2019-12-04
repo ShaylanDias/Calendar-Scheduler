@@ -1,3 +1,5 @@
+Navigate to this link to see the project: https://shaylandias.github.io/Calendar-Scheduler/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
